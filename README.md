@@ -1,4 +1,18 @@
 ```html
+<!-- 
+    package.json 한번에 업데이트하기
+    
+    npm-check-updates 사용
+    
+    npm install -g npm-check-updates
+    ㄴ 패키지 설치
+    
+    ncu -u
+    ㄴ 업데이트 가능한 항목 확인
+    
+    npm install 
+    ㄴ 업데이트
+ -->
 <!-- 기본 스타일
     -을 사용하여 사이즈,부가 사항 설정
     []을 이용하면 px단위 및 정확한 색상 지정 가능
